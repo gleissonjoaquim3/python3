@@ -8,6 +8,7 @@ y = int(input('Digite um número somavel : '))
 
 print(f'Ola ! A soma é de {soma(x,y)} !')
 
+
 class Pessoa:
     def __init__(self, nome, idade):
         self.nome = nome

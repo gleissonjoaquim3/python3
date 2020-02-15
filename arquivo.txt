@@ -1,0 +1,3 @@
+Essa é a primeira linha escrita de texto escrita em python. 
+Feita por mim !! Gleisson !!Essa deveria ser a terceira linha porém ainda é a segunda. 
+Essa sim é a terceira.
