@@ -8,7 +8,7 @@ for x in minha_lista:
 num = ['um']
 print(num)
 
-num.append('dois') 
+num.append('dois')
 num.append('tres')
 num.append('quatro')
 num.append('cinco')

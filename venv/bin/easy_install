@@ -1,4 +1,4 @@
-#!/home/gleissonjjc/Projetos/python3/venv/bin/python3
+#!/home/gcardoso/projetos/python3/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
