@@ -1,6 +1,4 @@
-# Python3
-Aprendizado de python
+# Introdução à programação com Python
 
-# Testes com Funções
-Aprendizado de python
+Aprendizado de **python**, através do Livro : *Introdução à programação Python* 
 
