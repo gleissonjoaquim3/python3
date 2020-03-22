@@ -1,5 +1,4 @@
 # Operações com Strings
-
 # Concatenação
 s = 'ABC'
 t = s + 'C'
