@@ -7,3 +7,4 @@ print(x)
 nome = input('Digite seu nome: ').capitalize()
 print(f'Você digitou {nome}')
 print(f'Olá, {nome}')
+h
