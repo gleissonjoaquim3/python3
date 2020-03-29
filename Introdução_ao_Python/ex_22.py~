@@ -1,0 +1,15 @@
+"""Programa que faz cálculos núméricos"""
+primeiro = int(input('Diga o primeiro número: '))
+segundo = int(input('Diga o segundo número: '))
+escolha = int(
+    input('Escolha a operação: 1(soma),2(subtr),3(divis) e 4(multi):'))
+calculo = 0
+if escolha == 1:
+    escolha = 'Soma'
+    calculo = primeiro + segundo
+elif:
+
+else:
+    print('Categoria invalida ! Somente de 1 a 4.')
+
+print(f'A {escolha} de {primeiro} com {segundo} é : {calculo}')
