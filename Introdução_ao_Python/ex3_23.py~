@@ -1,4 +1,0 @@
-""" Programa que faz aprovação bancaria"""
-
-casa = int(input('Diga o valor da casa: '))
-salario = float(input('Informe o valor do seu salário: '))
