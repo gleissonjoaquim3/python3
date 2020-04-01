@@ -17,3 +17,5 @@ if segundo < primeiro:
     menor = segundo
 if terceiro < segundo:
     menor = terceiro
+if terceiro:
+    print('Teste')
