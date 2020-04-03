@@ -1,4 +1,6 @@
 """ Exemplo de contadores"""
+import datetime
+
 fim = int(input('Diga o último número :'))
 x = 1
 while x <= fim:
